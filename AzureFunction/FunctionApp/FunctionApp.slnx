@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../FunctionAppTestProject/FunctionAppTestProject.csproj" Id="d9c60faf-bf73-48d4-9109-925817038a6f" />
+  <Project Path="FunctionAnnonmLogin.csproj" />
+</Solution>
